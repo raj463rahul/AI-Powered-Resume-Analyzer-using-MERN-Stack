@@ -1,32 +1,54 @@
-💬 AI Resume Scorer Application (MERN Stack)
-A full-stack AI-powered Resume Scoring web application built using the MERN stack. Users can register/login, upload their resumes (PDF), and receive an AI-based score based on resume quality, skills, and content analysis. The system stores resume history and provides structured feedback.
+🚀 AI Resume Scorer – MERN Stack Project
 
-🚀 Features
-🔐 User Authentication (Firebase-based)
+An AI-powered Resume Scoring Web Application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+
+This application allows users to upload resumes (PDF), analyze them using AI logic, and get a score based on resume quality. It also includes authentication and an admin dashboard.
+
+📌 Features
+
+🔐 User Authentication (Firebase)
+
 📄 Resume Upload (PDF only)
-🧠 AI-Based Resume Scoring System
-📊 Resume Score Dashboard
-📜 Resume History (stored in MongoDB)
-📂 Secure File Handling with Multer
-🎨 Clean & Responsive UI (React + Vite)
-👨‍💼 Admin Monitoring Support
 
-🛠 Tech Stack
+📊 AI-based Resume Scoring
 
-Frontend
+📜 Resume History Tracking
 
-React
+👨‍💼 Admin Dashboard
+
+🗂️ Secure File Upload using Multer
+
+🌐 RESTful API Integration
+
+⚡ Modern UI with React + Vite
+
+🛠️ Tech Stack
+Frontend (mern_ai)
+
+React.js
+
 Vite
-Axios
-Firebase Authentication
-CSS / Modern UI Styling
 
-Backend
+Axios
+
+Firebase Authentication
+
+CSS Modules
+
+Backend (backend_ai)
 
 Node.js
+
 Express.js
-MongoDB with Mongoose
-Multer (File Upload Handling)
+
+MongoDB
+
+Mongoose
+
+Multer (for file uploads)
+
 CORS
+
 Dotenv
 
+📂 Project Structure
