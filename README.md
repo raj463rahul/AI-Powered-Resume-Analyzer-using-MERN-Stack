@@ -29,21 +29,3 @@ MongoDB with Mongoose
 Multer (File Upload Handling)
 CORS
 Dotenv
-
-📁 Project Structure
-
-public_ai_resume_mern-main/
-│
-├── backend_ai/            # Backend (Node + Express)
-│   ├── Controllers/
-│   ├── Models/
-│   ├── Routes/
-│   ├── utils/
-│   ├── uploads/
-│   └── index.js
-│
-└── mern_ai/               # Frontend (React + Vite)
-    ├── src/
-    │   ├── component/
-    │   ├── utils/
-    │   └── App.jsx
